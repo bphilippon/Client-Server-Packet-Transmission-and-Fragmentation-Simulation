@@ -1,0 +1,228 @@
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        37
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               1
+FIN Flag:               0
+Receive Window:         0
+Checksum:               59643
+Urgent Ptr:             0
+Options:                0
+Payload: 
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        38
+Acknowledgement Number: 86
+Offset:                 6
+URG Flag:               0
+ACK Flag:               1
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               14249
+Urgent Ptr:             0
+Options:                0
+Payload: If you really want to hear about it, the first thing you'll probably want to know is
+where I was born, an what my lousy childhooðUè€U
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        172
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               61643
+Urgent Ptr:             0
+Options:                0
+Payload: d was like, and how my parents were
+occupied and all before they had me, and all that David Copperfield kind of crap, but I
+don'ðUè€'
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        306
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               14115
+Urgent Ptr:             0
+Options:                0
+Payload: t feel like going into it, if you want to know the truth. In the first place, that stuff
+bores me, and in the second place, my pðUè€­
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        440
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               61509
+Urgent Ptr:             0
+Options:                0
+Payload: arents would have about two hemorrhages apiece
+if I told anything pretty personal about them. They're quite touchy about anythinðUè€3
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        574
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               13981
+Urgent Ptr:             0
+Options:                0
+Payload: g like
+that, especially my father. They're nice and all--I'm not saying that--but they're also
+touchy as hell. Besides, I'm not ðUè€¹
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        708
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               61375
+Urgent Ptr:             0
+Options:                0
+Payload: going to tell you my whole goddam autobiography or
+anything. I'll just tell you about this madman stuff that happened to me arouðUè€?
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        842
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               13847
+Urgent Ptr:             0
+Options:                0
+Payload: nd last
+Christmas just before I got pretty run-down and had to come out here and take it easy. I
+mean that's all I told D.B. aboðUè€Å
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        976
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               61241
+Urgent Ptr:             0
+Options:                0
+Payload: ut, and he's my brother and all. He's in Hollywood. That
+isn't too far from this crumby place, and he comes over and visits me pðUè€K
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        1110
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               13713
+Urgent Ptr:             0
+Options:                0
+Payload: ractically
+
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        1121
+Acknowledgement Number: 0
+Offset:                 6
+URG Flag:               0
+ACK Flag:               0
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               1
+Receive Window:         0
+Checksum:               28462
+Urgent Ptr:             0
+Options:                0
+Payload: 
+
+        -Segment Fields-
+Source Port:            33000
+Destination Port:       22000
+Sequence Number:        1122
+Acknowledgement Number: 1114
+Offset:                 6
+URG Flag:               0
+ACK Flag:               1
+PSH Flag:               0
+RST Flag:               0
+SYN Flag:               0
+FIN Flag:               0
+Receive Window:         0
+Checksum:               43318
+Urgent Ptr:             0
+Options:                0
+Payload: 
+

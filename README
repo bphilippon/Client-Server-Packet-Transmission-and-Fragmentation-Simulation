@@ -1,0 +1,16 @@
+Description:
+
+This program is designed to simulate client and server interaction through TCP transmission and fragmentation.
+Upon executing, the client initiates the 3-way handshake to define the connection between server and client, followed
+by the fragmentation of an input file that is relayed to the server. The client finally initiates the 4-way
+closing process with the server. The contents of each packet are updated as the interaction progresses.
+
+How to Compile:
+
+	gcc server.c -o svr
+	gcc client.c -o cli
+
+How to Run:
+
+	./svr
+	./cli
